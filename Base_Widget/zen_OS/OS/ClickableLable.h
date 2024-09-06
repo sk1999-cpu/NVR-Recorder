@@ -1,0 +1,4 @@
+#ifndef CLICKABLELABLE_H
+#define CLICKABLELABLE_H
+
+#endif // CLICKABLELABLE_H

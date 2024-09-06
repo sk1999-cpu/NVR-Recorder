@@ -1,0 +1,12 @@
+21G_UP Tambaram to Broad Way
+21G_DOWN Broad Way to Tambaram
+34G_UP Tambaram to Chennai
+222_up Tambaram to Vela
+334_dw Tam to pary
+445_UP Go to tam
+hi
+bye
+ok
+fun
+AAA
+OK         

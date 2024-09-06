@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/1.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/2.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/3.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/4.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/5.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/6.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/7.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/8.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/9.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/10.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/11.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/12.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/13.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/14.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/15.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/16.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/20.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/19.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/18.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/17.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/24.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/23.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/22.png</file>
+        <file>../../../../../../pi/zen_OS/qt_resources/APP_MENU/21.png</file>
+    </qresource>
+</RCC>
